@@ -11,7 +11,7 @@
   - [Assistance on Your Project](#assistance-on-your-project)
 
 ## Class Schedule
-<table>
+<table style="margin: auto;">
   <tr>
     <th style="text-align: center;">Sem. Week</th>
     <th style="text-align: center;">Topics Taught</th>
